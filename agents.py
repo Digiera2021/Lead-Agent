@@ -23,7 +23,7 @@ company_researcher = Agent(
     role="Senior Company Research Analyst",
 
     goal=(
-        "Find companies matching the requested country and "
+        "Find 10 companies matching the requested country and "
         "industry. Research reliable information about each "
         "company and provide evidence-based findings."
     ),
